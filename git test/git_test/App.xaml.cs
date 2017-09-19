@@ -13,6 +13,9 @@ namespace git_test
         {
             InitializeComponent();
 
+
+
+
             MainPage = new git_test.MainPage();
         }
 
