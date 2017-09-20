@@ -17,6 +17,7 @@ namespace git_test.iOS
             UIApplication.Main(args, null, "AppDelegate");
             // hallo lu ping
             // pingpingping
+            // yyyy
         }
     }
 }
